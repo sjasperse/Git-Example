@@ -1,4 +1,4 @@
 Git-Example
 ===========
 
-An example git repo
+An example git repo.
